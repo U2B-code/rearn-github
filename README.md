@@ -1,3 +1,3 @@
 # rearn-github
 
-test githyb
+test github
